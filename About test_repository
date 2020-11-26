@@ -8,10 +8,12 @@
 * dotenv 3.8.5
 
 # Installation
+
 MySQLdb 8.0.21
 ```bash
 apt-get install  mysqlclient
 ```
+
 dotenv 3.8.5
 ```bash
 pip3 install python-dotenv
