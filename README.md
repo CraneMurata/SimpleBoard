@@ -1,4 +1,4 @@
-# Test Repository
+# Simple Board
 
  This records any comments at time.
  
